@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial;
+}
+
+.img1 {
+    text-align: left;
+}
+.Sign_in {
+    text-align: right;
+    text-align: center;
+}
+
+.E-mail {
+    text-align: right;
+    text-align: center;
+}
+
+.Password {
+    text-align: right;
+    text-align: center;
+}
+
+.Login {
+    text-align: right;
+    text-align: center;
+    border: solid 5px rgb(0, 214, 230);
+    padding: 5px;
+    display: inline-block;
+}
